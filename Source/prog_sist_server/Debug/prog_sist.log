@@ -1,0 +1,4 @@
+﻿  server.c
+c:\users\ftrom\documents\prog_sist\progetto\win/io.c(172): warning C4293: '<<': shift count negative or too big, undefined behavior
+  prog_sist.vcxproj -> C:\Users\ftrom\Documents\prog_sist\progetto\prog_sist_server\Debug\prog_sist_server.exe
+  prog_sist.vcxproj -> C:\Users\ftrom\Documents\prog_sist\progetto\prog_sist_server\Debug\prog_sist_server.pdb (Full PDB)
